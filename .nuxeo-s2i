@@ -1,1 +1,2 @@
 NUXEO_PACKAGE_DIR=nuxeo-customer-project-sample-package/target
+NUXEO_SMOKE_TEST=true
